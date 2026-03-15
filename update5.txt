@@ -1,1 +1,1 @@
-Add search feature
+Add admin dashboard
