@@ -1,1 +1,1 @@
-Add login system
+Initial project setup
